@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='C:\Users\Waqar G\PycharmProjects\PakWheels\Amazon-Sales-Data-Analysis\resources\Sales Data.png' width=600 height=250 >
+<img src='https://github.com/waqarg2001/PakWheels-Data-Analysis/blob/7b23ca6ab3df0c13053a73f5a91e5544becd2ff0/resources/Sales%20Data.png' width=600 height=250 >
 </p>
 
 ---
@@ -82,7 +82,7 @@ To build this project, following tools and packages were used:
 The architecture of this project is straightforward which can be understood by the following diagram.
 
 <p align='center'>
-  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/architecture.gif' height=280 width=900>
+  <img src='https://github.com/waqarg2001/PakWheels-Data-Analysis/blob/7b23ca6ab3df0c13053a73f5a91e5544becd2ff0/resources/architecture.gif' height=280 width=900>
 </p>  
 
 According to the diagram we first create a python script which performs ETL for us on the raw dataset. The output of this process is clean data which is then used for exploratory analysis in jupyter Notebook and to create a dashboard in Python.
