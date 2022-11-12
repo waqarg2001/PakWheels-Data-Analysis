@@ -4,7 +4,7 @@
 
 ---
 
-<h4 align='center'> Application of ETL process on raw <a href='https://pakwheels.com/' target='_blank'>PakWheels</a> data along with its analysis using <a href='jupyter.org' target='_blank'>Jupyter</a> Notebook. </h4>
+<h4 align='center'> Application of ETL process on raw used cars dataset scraped from <a href='https://pakwheels.com/' target='_blank'>PakWheels</a> along with its analysis using <a href='jupyter.org' target='_blank'>Jupyter</a> Notebook. </h4>
 
 <p align='center'>
 <img src="https://i.ibb.co/KxfMMsP/built-with-love.png" alt="built-with-love" border="0">
@@ -83,7 +83,7 @@ The figure below shows a snapshot of ETL process being conducted through termina
 (figure may take few seconds to load)
 
 <p>
-  <img src='https://github.com/waqarg2001/PakWheels-Data-Analysis/blob/b195a77dc208fe9c668df46433f213108ae63008/resources/pakwheels%20etl.gif' width=816 height=300>
+  <img src='https://github.com/waqarg2001/PakWheels-Data-Analysis/blob/b195a77dc208fe9c668df46433f213108ae63008/resources/pakwheels%20etl.gif' width=900 height=300>
 </p>  
 
 
