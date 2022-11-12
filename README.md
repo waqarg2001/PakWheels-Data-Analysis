@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='https://github.com/waqarg2001/PakWheels-Data-Analysis/blob/7b23ca6ab3df0c13053a73f5a91e5544becd2ff0/resources/Sales%20Data.png' width=600 height=250 >
+<img src='https://github.com/waqarg2001/PakWheels-Data-Analysis/blob/main/resources/Logo.png' width=600 height=250 >
 </p>
 
 ---
