@@ -94,13 +94,10 @@ The figure below shows a snapshot of ETL process being conducted through termina
 (figure may take few seconds to load)
 
 <p align='center'>
-  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/etl%20gif.gif' width=400 height=300>
+  <img src='https://github.com/waqarg2001/PakWheels-Data-Analysis/blob/b195a77dc208fe9c668df46433f213108ae63008/resources/pakwheels%20etl.gif' width=400 height=300>
 </p>  
 
-The following dashboard was created on Tableau.
-<p align='center'>
-  <img src='https://github.com/waqarg2001/Amazon-Sales-Data-Analysis/blob/master/resources/Executive%20Dashboard.png' width=600 height=550>
-</p>  
+
 
 
 ## Support
